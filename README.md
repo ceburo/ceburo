@@ -1,5 +1,9 @@
 # 💫 About Me:
-	🇫🇷 French mobile developer with 10+ years of experience<br>	📱 Specialized in cross-platform app development<br>	🛠️ Currently working with .NET MAUI and Flutter<br>	🎲 Passionate about board games<br>	🌳 Enthusiast of genealogy and historical research
+	🇫🇷 French mobile developer with 10+ years of experience
+	📱 Specialized in cross-platform app development
+	🛠️ Currently working with .NET MAUI and Flutter
+	🎲 Passionate about board games
+	🌳 Enthusiast of genealogy and historical research
 
 
 ## 🌐 Socials:
